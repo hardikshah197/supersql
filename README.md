@@ -22,7 +22,7 @@ alasql(['SELECT * FROM XLS("./data/mydata") WHERE lastname LIKE "A%" and city = 
 ---
 ## SUPERSQL Google Sheets Function
 
-SUPERSQL function for Google Sheets by https://www.chicagocomputerclasses.com/
+SUPERSQL function for Google Sheets by https://github.com/hardikshah197/
 
 Examples of Use:
 ```
